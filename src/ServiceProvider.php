@@ -12,7 +12,7 @@
  * @link        https://xpressengine.io
  */
 
-namespace Xpressengine\Cubrid;
+namespace Skriptex\Cubrid;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

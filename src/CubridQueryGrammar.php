@@ -12,7 +12,7 @@
  * @link        https://xpressengine.io
  */
 
-namespace Xpressengine\Cubrid;
+namespace Skriptex\Cubrid;
 
 use Illuminate\Database\Query\Builder;
 use Illuminate\Database\Query\Grammars\Grammar;

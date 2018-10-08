@@ -1,5 +1,5 @@
 {
-    "name": "xpressengine/laravel-cubrid",
+    "name": "skriptex/laravel-cubrid",
     "description": "The cubrid database connetor for laravel",
     "keywords": ["laravel", "database", "db", "cubrid", "xpressengine"],
     "license": "LGPL-2.1",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Xpressengine\\Cubrid\\": "src/"
+            "namespace Skriptex\\Cubrid\\;": "src/"
         }
     },
     "minimum-stability": "dev",
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Xpressengine\\Cubrid\\ServiceProvider"
+                "Skriptex\\Cubrid\\ServiceProvider"
             ]
         }
     },
